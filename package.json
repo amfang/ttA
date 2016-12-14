@@ -6,6 +6,7 @@
 		"start": "node app.js"
 	},
 	"dependencies": {
+		"coffee-script": ">=1.6.2",
 		"express": "4.13.x",
 		"cfenv": "1.0.x",
 		"child_process": "1.0.2",
